@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 🛠️ Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,bootstrap,netlify,fastapi,python,docker,git,mysql,sqlite,tensorflow,scikitlearn,numpy,pytorch,langchain,huggingface,opencv,ps,pr,lr" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,bootstrap,netlify,fastapi,python,docker,git,mysql,sqlite,tensorflow,scikitlearn,pytorch,opencv,ps,pr,lr" alt="Skills" />
 </p>
 
 ## 📈 GitHub Stats
