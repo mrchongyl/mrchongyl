@@ -40,4 +40,4 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ---
 
-_Thanks for visiting my profile! Have a great day!_ 🚀
+_Thanks for visiting my profile! I'm probably sipping an Americano right now, after all, they say an Americano a day keeps the doctor away._ ☕
