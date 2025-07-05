@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 <p align="left">
   <a href="mailto:mrchongyl99@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/></a>
   <a href="https://github.com/mrchongyl" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://instagram.com/soimcarl" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://instagram.com/soimcarl" target="_blank"><img src="https://lucide.dev/icon/instagram.svg" alt="Instagram" width="40" height="40"/></a>
   <a href="https://linkedin.com/in/mrchongyl" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
