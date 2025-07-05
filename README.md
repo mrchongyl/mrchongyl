@@ -1,9 +1,9 @@
 <div align="center">
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align:middle;" alt="Waving hand"/> Hi, I'm Carl</h1>
-  <p><b>Fresh Graduate in M.Sc in IT with focus on Artificial Intelligence</b></p>
+  <h1 style="font-size:3em;"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align:bottom;" alt="Waving hand"/> Hi, I'm Carl</h1>
+  <p style="font-size:2em;"><b>Fresh Graduate in M.Sc in IT with focus on Artificial Intelligence</b></p>
   <p>Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building cool projects. Here you'll find a collection of my work, experiments, and collaborations.</p>
 </div>
----
+
 
 ## 🚀 About Me
 - 💻 Aspiring AI/ML Developer, tech enthusiast, and photographer
