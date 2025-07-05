@@ -1,64 +1,55 @@
-# Hi there, I'm mrchongyl! 👋
+# 👋 Hi, I'm Carl
 
-![Profile Banner](https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1350&q=80)
+Fresh Graduate in M.Sc in IT with focus on Artificial Intelligence
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building cool projects. Here you'll find a collection of my work, experiments, and collaborations.
 
 ---
 
 ## 🚀 About Me
-- 💻 Developer, tech enthusiast, and lifelong learner
+- 💻 Aspiring AI/ML Developer, tech enthusiast, and photographer
 - 🌏 Based in Kuala Lumpur, Malaysia
 - 🎯 Always exploring new ideas and challenges
 
+## 🎉 Fun Facts
+- 📸 I love photography and capturing moments
+- 🕳️ I love diving deep into Wikipedia rabbit holes
+- ☕ COFFEE 4 LIFEEEE
+- 🌱 Currently learning: Retrieval-Augmented Generation (RAG) and building LLM-powered applications with LangChain
+
 ## 🛠️ Skills
 <p align="left">
-  <!-- Web Dev -->
-  <span title="React">⚛️</span>
-  <span title="TypeScript">📘</span>
-  <!-- Backend -->
-  <span title="Python">🐍</span>
-  <span title="FastAPI">⚡</span>
-  <!-- Knowledge Graph / Database -->
-  <span title="Neo4j">🕸️</span>
-  <span title="MySQL">🐬</span>
-  <span title="FAISS">🗃️</span>
-  <!-- AI/ML -->
-  <span title="TensorFlow">🧠</span>
-  <span title="Scikit-Learn">📊</span>
-  <span title="NumPy">🔢</span>
-  <span title="Transformers">🧬</span>
-  <span title="LLM">🤖</span>
-  <span title="RAG">🔍</span>
-  <span title="CV">👁️</span>
-  <span title="ML">⚙️</span>
-  <span title="NLP">💬</span>
-  <span title="PyTorch">🔥</span>
-  <span title="LangChain">🔗</span>
-  <span title="Hugging Face">🤗</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/chainsml/devicons/main/icons/langchain/langchain-original.svg" alt="LangChain" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-original.svg" alt="Lightroom" width="40" height="40"/>
 </p>
 
 ## 📈 GitHub Stats
-![mrchongyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrchongyl&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrchongyl&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrchongyl&layout=compact&theme=github_dark)
 
-## 🌟 Featured Projects
-- [Project One](https://github.com/mrchongyl/project-one): A brief description of your awesome project.
-- [Project Two](https://github.com/mrchongyl/project-two): Another cool project to showcase.
+## 🌟 Published Paper
+- [Hand Gesture Recognition with Deep Convolutional Neural Networks: A Comparative Study](https://doi.org/10.1109/ICSPC59664.2023.10419918)
+- [TransKGQA: Enhanced Knowledge Graph Question Answering with Sentence Transformers](https://doi.org/10.1109/ACCESS.2024.3405583)
 <!-- Add more projects as you like -->
-
-## 🎉 Fun Facts
-- 🧩 I love solving puzzles and brain teasers
-- 🎮 Gamer at heart
-- ☕ Coffee fuels my code
-- 🌱 Currently learning: [Your latest tech or topic]
 
 ## 🌐 Socials
 <p align="left">
-  <a href="https://discord.com/users/your-discord-id" target="_blank"><img src="https://lucide.dev/icon/discord.svg" alt="Discord" width="32" height="32"/></a>
-  <a href="https://github.com/mrchongyl" target="_blank"><img src="https://lucide.dev/icon/github.svg" alt="GitHub" width="32" height="32"/></a>
-  <a href="https://instagram.com/yourhandle" target="_blank"><img src="https://lucide.dev/icon/instagram.svg" alt="Instagram" width="32" height="32"/></a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://lucide.dev/icon/linkedin.svg" alt="LinkedIn" width="32" height="32"/></a>
+  <a href="mailto:mrchongyl99@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/></a>
+  <a href="https://github.com/mrchongyl" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://instagram.com/soimcarl" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://linkedin.com/in/mrchongyl" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
 ---
