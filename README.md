@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 🛠️ Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,python,fastapi,neo4j,mysql,tensorflow,scikitlearn,numpy,pytorch,langchain,huggingface,photoshop,premierepro,lightroom" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,bootstrap,netlify,fastapi,python,docker,git,mysql,sqlite,tensorflow,scikitlearn,numpy,pytorch,langchain,huggingface,opencv,ps,pr,lr" alt="Skills" />
 </p>
 
 ## 📈 GitHub Stats
@@ -32,10 +32,10 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## 🌐 Socials
 <p align="left">
-  <a href="mailto:mrchongyl99@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40" height="40"/></a>
-  <a href="https://github.com/mrchongyl" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://instagram.com/soimcarl" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40"/></a>
-  <a href="https://linkedin.com/in/mrchongyl" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="mailto:mrchongyl99@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40"/></a>
+  <a href="https://github.com/mrchongyl" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://instagram.com/soimcarl" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://linkedin.com/in/mrchongyl" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
 ---
