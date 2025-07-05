@@ -5,7 +5,7 @@
 </div>
 
 
-## 🚀 About Me
+## 🤖 About Me
 - 💻 Aspiring AI/ML Developer, tech enthusiast, and photographer
 - 🌏 Based in Kuala Lumpur, Malaysia
 - 🎯 Always exploring new ideas and challenges
