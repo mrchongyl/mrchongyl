@@ -21,13 +21,13 @@
   <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,bootstrap,netlify,fastapi,python,docker,git,mysql,sqlite,tensorflow,scikitlearn,pytorch,opencv,ps,pr,lr" alt="Skills" />
 </p>
 
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrchongyl&layout=compact&theme=github_dark)
-
 ## 🌟 Published Paper
 - [Hand Gesture Recognition with Deep Convolutional Neural Networks: A Comparative Study](https://doi.org/10.1109/ICSPC59664.2023.10419918)
 - [TransKGQA: Enhanced Knowledge Graph Question Answering with Sentence Transformers](https://doi.org/10.1109/ACCESS.2024.3405583)
 <!-- Add more projects as you like -->
+
+## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrchongyl&layout=compact&theme=github_dark)
 
 ## 🌐 Socials
 <p align="left">
