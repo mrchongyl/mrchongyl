@@ -27,6 +27,7 @@
 <!-- Add more projects as you like -->
 
 ## 📈 GitHub Stats
+![](https://komarev.com/ghpvc/?username=mrchongyl&style=for-the-badge)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrchongyl&layout=compact&theme=github_dark)
 
 ## 🌐 Socials
