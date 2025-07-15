@@ -13,6 +13,7 @@
 ## 🎉 Fun Facts
 - 📸 I love photography and capturing moments
 - 🕳️ I love diving deep into Wikipedia rabbit holes
+- 🚗 Automotive enthusiast and regular contributor to Wikipedia’s car-related articles
 - ☕ COFFEE 4 LIFEEEE
 - 🌱 Currently learning: Retrieval-Augmented Generation (RAG) and building LLM-powered applications with LangChain
 
